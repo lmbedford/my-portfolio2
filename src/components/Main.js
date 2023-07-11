@@ -31,9 +31,9 @@ function Main() {
             <div className="d-flex justify-content-center align-items-start">
               <div>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero.
-                  Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum.
-                  Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa.
+                I have always had a pull towards coding and design, ever since I was young, making my own layouts for my Myspace with all the bells and whistles so I could have my ‘Top 8’ shown in all its glory. I also thoroughly enjoyed using Paint Shop Pro to make banners and signatures of my favourite bands to put on my profile.
+
+In 2023, I completed my Web Design degree from WTCC and am excited to see where I can go with it in the world of web and graphic design
                 </p>
               </div>
               <div className="ml-4">
